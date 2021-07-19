@@ -1,3 +1,5 @@
+#!bin/bash
+
 beep -f 2000 -l 100;beep -f 1000 -l 100
 beep -f 2000 -l 100;beep -f 1000 -l 100
 sleep 1
